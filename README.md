@@ -1,6 +1,6 @@
-# Task Manager
+# Python Task Manager
 
-This program manages a group of users as well as the user's tasks.
+This python program manages a group of users and their tasks.
 
 It stores
 * User's login details
